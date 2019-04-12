@@ -1,0 +1,22 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Tests that CharactersCard renders properly 1`] = `
+<div
+  className="MuiPaper-root-6 MuiPaper-elevation1-9 MuiPaper-rounded-7 MuiCard-root-5 MovieCard-card-1"
+>
+  <div
+    className="MuiCardContent-root-33"
+  >
+    <h2
+      className="MuiTypography-root-34 MuiTypography-h5-50"
+    >
+      Luke Skywaler
+    </h2>
+    <h2
+      className="MuiTypography-root-34 MuiTypography-h5-50"
+    >
+      Human
+    </h2>
+  </div>
+</div>
+`;

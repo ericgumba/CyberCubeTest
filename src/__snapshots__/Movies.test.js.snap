@@ -1,0 +1,26 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Tests that MoviesCard renders properly 1`] = `
+<div
+  className="MuiPaper-root-6 MuiPaper-elevation1-9 MuiPaper-rounded-7 MuiCard-root-5 MovieCard-card-1"
+>
+  <div
+    className="MuiCardContent-root-33"
+  >
+    <h2
+      className="MuiTypography-root-34 MuiTypography-h5-50"
+    >
+      A New Hope
+    </h2>
+    <p
+      className="MuiTypography-root-34 MuiTypography-body1-43 MuiTypography-colorTextSecondary-67 MovieCard-pos-4"
+    >
+      <button
+        onClick={[Function]}
+      >
+         Characters 
+      </button>
+    </p>
+  </div>
+</div>
+`;
